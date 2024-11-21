@@ -5,7 +5,7 @@
     "image": "calculator",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Calculator"
+      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Calculator"
     }
   },
   {
@@ -14,7 +14,7 @@
     "image": "netflix",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Netflix"
+      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Netflix"
     }
   },
   {
@@ -23,7 +23,7 @@
     "image": "TicTacToe",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Tic-Tac-Toe"
+      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Tic-Tac-Toe"
     }
   },
   {
@@ -32,7 +32,7 @@
     "image": "Temparature",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Temparature convert"
+      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Temparature%20convert"
     }
   },
   {
@@ -41,34 +41,7 @@
     "image": "To Do",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Todo List"
-    }
-  },
-  {
-    "name": "Age Calculator",
-    "desc": "The Age Calculator can determine the age or interval between two dates. The calculated age will be displayed in years, months, weeks, days, hours, minutes, and seconds.",
-    "image": "Age",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Age calculator"
-    }
-  },
-  {
-    "name": "Color Switcher",
-    "desc": "Color Switch: A mobile game where you navigate through obstacles by matching your character's color to the color of the obstacles. It has over 1,000 levels, multiple game modes, and regular updates. The game is easy to learn but requires skill and strategy to master.",
-    "image": "color",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Color Swiches"
-    }
-  },
-  {
-    "name": "Password Genarator",
-    "desc": "A password generator is a tool that creates random passwords for online accounts.",
-    "image": "password",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/Bhanu-1433/Projects/tree/main/Password Generator"
+      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Todo%20list"
     }
   }
 ]
