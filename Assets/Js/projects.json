@@ -5,7 +5,7 @@
     "image": "calculator",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Calculator"
+      "code": "https://github.com/Bhanu-9391/Projects/tree/master/Calculator"
     }
   },
   {
@@ -14,16 +14,16 @@
     "image": "netflix",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Netflix"
+      "code": "https://github.com/Bhanu-9391/Projects/tree/master/Netflix"
     }
   },
   {
     "name": "Tic-Tac-Toe",
-    "desc": "A game in which two players by turns put crosses and zeros in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three crosses or three zeros before the opponent does.",
+    "desc": "A game in which two players by turns put crosses and zeros in compartments of a figure formed by two vertical lines crossing two horizontal lines .",
     "image": "TicTacToe",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Tic-Tac-Toe"
+      "code": "https://github.com/Bhanu-9391/Projects/tree/master/Tic-Tac-Toe"
     }
   },
   {
@@ -32,7 +32,7 @@
     "image": "Temparature",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Temparature%20convert"
+      "code": "https://github.com/Bhanu-9391/Projects/tree/master/Temparature%20convert"
     }
   },
   {
@@ -41,7 +41,7 @@
     "image": "To Do",
     "links": {
       "view": "#",
-      "code": "https://github.com/Bhanu-934678/Projects/tree/master/Todo%20list"
+      "code": "https://github.com/Bhanu-9391/Projects/tree/master/Todo%20list"
     }
   }
 ]
